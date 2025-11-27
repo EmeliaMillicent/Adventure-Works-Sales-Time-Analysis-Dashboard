@@ -1,4 +1,4 @@
-# Adventure-Works-Sales-Time-Analysis-Dashboard
+Adventure-Works-Sales-Time-Analysis-Dashboard
 A full interactive Excel dashboard analyzing sales, revenue, profit, and time-based performance insights.
 This project contains an interactive AdventureWorks Sales & Time Analysis Dashboard built in Excel.
 The dashboard provides insights into:
